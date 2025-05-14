@@ -66,4 +66,4 @@ async def verse(ctx):
     verse = random.choice(bible_verses)
     await ctx.send(verse)
 
-bot.run('MTM3MjMwMjQ4NjgyNzk1ODM4NQ.GI7HBf.B4JSdxWbKiXb8X3DQCs5R_mewnY4L8hUR1YH6c')  # <-- Replace this with your real bot token
+bot.run('MTM3MjMwMjQ4NjgyNzk1O.GI7HBf.B4JSdxWbKiXb8X3DQCs5R_mewnY4L8hUR1YH6c')  # <-- Replace this with your real bot token
